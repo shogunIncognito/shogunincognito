@@ -1,6 +1,6 @@
 ### Hi there im Samuel Aya 👋
 
-![mostlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=shogunincognito)
+![mostlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=shogunincognito&hide=java&theme=onedark)
 
 
 <!--
