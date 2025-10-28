@@ -1,4 +1,12 @@
-### Hi there im Samuel Aya 👋
+### Hi — I'm Samuel Aya 👋
+Full Stack Developer (.NET | Vue | React).  
+Me apasiona construir apps que resuelvan problemas reales: APIs, SPAs y apps móviles.  
+
+Portfolio: https://shogunportfolio.vercel.app  
+LinkedIn: https://linkedin.com/in/samuel-aya  
+GitHub: Aquí verás proyectos en TypeScript, React, Vue y APIs en JS/TS.
+
+🔭 Actualmente: desarrollando migraciones y nuevas funcionalidades en .NET + Vue.  
 
 ![mostlanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=shogunincognito&hide=java&theme=transparent)
 
